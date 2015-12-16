@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestAppScaner</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_start_scan">Start Scan</string>
+    <string name="dont_data">Нет данных</string>
+
+    <string name="one">One</string>
+    <string name="first">First</string>
+
+    <string name="two">two</string>
+    <string name="second">second</string>
+
+    <string name="three">three</string>
+    <string name="thrid">thrid</string>
+</resources>
