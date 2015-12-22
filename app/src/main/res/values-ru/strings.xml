@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestAppScaner</string>
+    <string name="action_settings">Настройки</string>
+    <string name="aplication_name">Имя приложения</string>
+    <string name="button_start_scan">Начать сканирование</string>
+    <string name="dont_data">Нет данных</string>
+    <string name="loading">Сканирование...</string>
+    <string name="package_name">app.package.name</string>
+</resources>

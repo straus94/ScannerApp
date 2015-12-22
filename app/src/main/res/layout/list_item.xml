@@ -27,7 +27,7 @@
             android:layout_height="wrap_content"
             android:gravity="center_vertical"
             android:textStyle="bold"
-            tools:text="Application name"/>
+            tools:text="@string/aplication_name"/>
 
         <TextView
             android:id="@+id/tv_app_package"
@@ -35,7 +35,7 @@
             android:layout_height="wrap_content"
             android:gravity="center_vertical"
             android:textStyle="bold"
-            tools:text="app.package.name"/>
+            tools:text="@string/package_name"/>
 
     </LinearLayout>
 
